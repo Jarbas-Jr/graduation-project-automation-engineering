@@ -4,7 +4,7 @@
 
 # Jarbas Carriconde
 <sub>*Projeto de Graduação em Engenharia de Automação pela Univerisdade Federal do Rio Grande - FURG*</sub>
-
+**[LinkedIn]**(https://www.linkedin.com/in/carlosfab)
 
 # 1. Contextualização
 
@@ -138,3 +138,7 @@ Seguem os links:
 * **6. Redes Neurais**: https://bit.ly/3fE6j7u
   * **1. Passando os target para número para aplicar na RNA**: https://bit.ly/3fJTVTM
   * **2. Redes Neurais Artificiais - Classificação Bínaria**: https://bit.ly/2YXcwVk
+
+## 4.4 Inferênca dos Algortimos de Classificação e aplicação de Redes Neurais Recorrentes
+
+
