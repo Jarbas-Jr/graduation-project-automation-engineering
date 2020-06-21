@@ -4,7 +4,7 @@
 
 # Jarbas Carriconde
 <sub>*Projeto de Graduação em Engenharia de Automação pela Univerisdade Federal do Rio Grande - FURG*</sub>
-**[LinkedIn]**(https://www.linkedin.com/in/carlosfab)
+**[LinkedIn](https://www.linkedin.com/in/carlosfab)**
 
 # 1. Contextualização
 
