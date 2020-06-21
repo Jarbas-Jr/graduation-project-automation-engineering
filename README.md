@@ -114,7 +114,27 @@ Seguem o link da pasta, e os netebooks que há dentro dela, devidamente comentad
 
 ## 4.3 Aplicação de 6 algoritmos de classificação.
 
-Agora temos a modelagem de 6 algortimos de complexidades e metodologias distintas sobre o dataset constituído. Dedicamos um dataset para cada devidamente comentado.
+Agora temos a modelagem de 6 algortimos de complexidades e metodologias distintas sobre o dataset constituído. Dedicamos um dataset para cada devidamente comentado. Aplicação de algortimo de Rede Neural está numa pasta a parte.
 
+Em cada notebook temos:
+* Aplicação do algortimo
+* Normalização dos Dados
+* Grid Search e Cross Validation
+* Timer do tempo da modelagem
+* Classification Report com as métricas de validação
+* Armazenamento em arquivo picke para usar os modelos no processo de inferência junto com o LSTM ao final da metodologia
 
+Na pasta referente as Redes Neurais naõ temos o grid search e o cross validation, mas temos a peculiaridade de ter uma pasta que traz as classificação dos rótulos para valores númericos.
 
+Seguem os links:
+
+* **PARTE 5. MODELOS DE CLASSIFICAÇÃO**: https://bit.ly/310oz71
+  * **1. Árvore de Decisão**: https://bit.ly/2NftJ7l
+  * **2. Floresta Aleatória**: https://bit.ly/37PwTry
+  * **3. Regressão Logística**: https://bit.ly/318a0yB
+  * **4. SVM**: https://bit.ly/3ekBtAT
+  * **5. XGBoost**: https://bit.ly/3hKKYeB
+
+* **6. Redes Neurais**: https://bit.ly/3fE6j7u
+  * **1. Passando os target para número para aplicar na RNA**: https://bit.ly/3fJTVTM
+  * **2. Redes Neurais Artificiais - Classificação Bínaria**: https://bit.ly/2YXcwVk
