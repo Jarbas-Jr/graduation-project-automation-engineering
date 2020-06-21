@@ -108,5 +108,5 @@ Primeiro temos o link da pasta que contém dois notebook, um para concatenar os 
 Seguem o link da pasta, e os netebooks que há dentro dela, devidamente comentados.
 
  * **Parte 4  CONCATENANDO TODAS AS AÇÕES - DATASET FINAL:** https://bit.ly/2YjNwsr
- ** **1. DATASET FINAL DOS FINAIS - VERSÃO FINAL.ipynb:** https://bit.ly/2YYpy50
- ** **2. CLEANING COLUMNS - KNN - VERSÃO FINAL.ipynb:** https://bit.ly/3hNfbcX
+    * **1. DATASET FINAL DOS FINAIS - VERSÃO FINAL.ipynb:** https://bit.ly/2YYpy50
+    * **2. CLEANING COLUMNS - KNN - VERSÃO FINAL.ipynb:** https://bit.ly/3hNfbcX
