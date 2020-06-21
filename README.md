@@ -92,3 +92,9 @@ Os dados de preço são extraídos da API Yahoo Finance, onde através de códig
 Aqui temos uma pasta para cada uma das ações selecionadas, conforme critério estabelecido anteriormente. Onde em cada pasta temos todos os códigos em notebook devidamente comentado e explicado, bem como o csv de dados fundamentalistas de cada respectiva empresa. E além disso, o csv resultande.
 
 Lembrando que cada código trata os dados fundamentalistas, de preço, bem como a criação do target. Tudo devidamente explicado.
+
+SEGUEM OS LINKS, COM AS PASTAS REFERENTES A PRIMEIRA PARTE DO PROCESSAMENTO. FOI SUBDIVIDIDO EM 3 PASTAS POR QUESTÃO DE ESPAÇO. ORDENADAS POR ORDEM ALFABÉTICA. BASTA CLICAR NA PASTA, CLICAR NA AÇÃO E DEPOIS NO NOTEBOOK PARA VER TODO O CODE EXPLICADO.
+
+ **Parte 1 AÇÕES ÍNDICE BOVESPA(A-C):** https://bit.ly/30WTTDQ
+ **Parte 2 AÇÕES ÍNDICE BOVESPA(D-P):** https://bit.ly/30Yp6qd
+ **Parte 3 AÇÕES ÍNDICE BOVESPA(Q-Z):** https://bit.ly/2YXlylt
