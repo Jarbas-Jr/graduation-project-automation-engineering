@@ -98,3 +98,15 @@ SEGUEM OS LINKS, COM AS PASTAS REFERENTES A PRIMEIRA PARTE DO PROCESSAMENTO. FOI
  * **Parte 1 AÇÕES ÍNDICE BOVESPA(A-C):** https://bit.ly/30WTTDQ
  * **Parte 2 AÇÕES ÍNDICE BOVESPA(D-P):** https://bit.ly/30Yp6qd
  * **Parte 3 AÇÕES ÍNDICE BOVESPA(Q-Z):** https://bit.ly/2YXlylt
+
+## 4.2 Concatenação das 39 ações em dataset único
+
+Pegando o resultante de cada dataset das 39 ações, que uniram dados de preço, dados fundamentalistas e o target, chegou a hora de juntar tudo isso em um dataset no qual serão aplicados os algoritmos de classificação.
+
+Primeiro temos o link da pasta que contém dois notebook, um para concatenar os 39 datasetes e outro que faz os processamentos, limpeza de dados e preenchimento de dados faltantes.
+
+Seguem o link da pasta, e os netebooks que há dentro dela, devidamente comentados.
+
+ * **Parte 4  CONCATENANDO TODAS AS AÇÕES - DATASET FINAL:** https://bit.ly/2YjNwsr
+ ** **1. DATASET FINAL DOS FINAIS - VERSÃO FINAL.ipynb:** https://bit.ly/2YYpy50
+ ** **2. CLEANING COLUMNS - KNN - VERSÃO FINAL.ipynb:** https://bit.ly/3hNfbcX
