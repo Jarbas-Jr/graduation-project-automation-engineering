@@ -95,9 +95,9 @@ Lembrando que cada código trata os dados fundamentalistas, de preço, bem como 
 
 SEGUEM OS LINKS, COM AS PASTAS REFERENTES A PRIMEIRA PARTE DO PROCESSAMENTO. FOI SUBDIVIDIDO EM 3 PASTAS POR QUESTÃO DE ESPAÇO. ORDENADAS POR ORDEM ALFABÉTICA. BASTA CLICAR NA PASTA, CLICAR NA AÇÃO E DEPOIS NO NOTEBOOK PARA VER TODO O CODE EXPLICADO.
 
- * **Parte 1 AÇÕES ÍNDICE BOVESPA(A-C):** https://bit.ly/30WTTDQ
- * **Parte 2 AÇÕES ÍNDICE BOVESPA(D-P):** https://bit.ly/30Yp6qd
- * **Parte 3 AÇÕES ÍNDICE BOVESPA(Q-Z):** https://bit.ly/2YXlylt
+ * **Parte 1. AÇÕES ÍNDICE BOVESPA(A-C):** https://bit.ly/30WTTDQ
+ * **Parte 2. AÇÕES ÍNDICE BOVESPA(D-P):** https://bit.ly/30Yp6qd
+ * **Parte 3. AÇÕES ÍNDICE BOVESPA(Q-Z):** https://bit.ly/2YXlylt
 
 ## 4.2 Concatenação das 39 ações em dataset único
 
@@ -107,6 +107,14 @@ Primeiro temos o link da pasta que contém dois notebook, um para concatenar os 
 
 Seguem o link da pasta, e os netebooks que há dentro dela, devidamente comentados.
 
- * **Parte 4  CONCATENANDO TODAS AS AÇÕES - DATASET FINAL:** https://bit.ly/2YjNwsr
+ * **Parte 4.  CONCATENANDO TODAS AS AÇÕES - DATASET FINAL:** https://bit.ly/2YjNwsr
     * **1. DATASET FINAL DOS FINAIS - VERSÃO FINAL.ipynb:** https://bit.ly/2YYpy50
     * **2. CLEANING COLUMNS - KNN - VERSÃO FINAL.ipynb:** https://bit.ly/3hNfbcX
+
+
+## 4.3 Aplicação de 6 algoritmos de classificação.
+
+Agora temos a modelagem de 6 algortimos de complexidades e metodologias distintas sobre o dataset constituído. Dedicamos um dataset para cada devidamente comentado.
+
+
+
