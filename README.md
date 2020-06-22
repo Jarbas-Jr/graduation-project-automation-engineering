@@ -163,7 +163,7 @@ Aqui coloquei a imagem da predição da LSTM e uma tabela com as classificaçõe
 * RESULTADOS DAS INFERÊNCIAS https://bit.ly/3hQyGRS
 
 
-## 6. CONLUSÕES E DISCUSSÕES
+## 6. CONCLUSÕES E DISCUSSÕES
 
 Este trabalho teve como objetivo, ainda que embrionário, desenvolver uma metodologia que utiliza duas bases técnicas principais para construção de um método envolvendo aprendizado de máquina para antever o movimento de preços futuros no mercado de ações visando o longo prazo. Além de utilizar dados de mercado de baixa frequência, que são pouco abordados na academia, outro aspecto também pouco abordado se dá no que tange a utilização de métodos classificatórios de aprendizado de máquina em conjunto com um método de LSTM aplicado em séries temporais, visando uma convergência entre as técnicas para uma tomada de decisão.
 
