@@ -142,4 +142,21 @@ Seguem os links:
 
 ## 4.4 Inferênca dos Algortimos de Classificação e aplicação de Redes Neurais Recorrentes
 
+Aqui temos a etapa final dos códigos.
+
+Escolhi 5 ações para fazer um processo de inferência: CYRE3, GOAU4, LAME4, PETR4 e VALE3.
+
+Logo dentro dessa pasta que representa a PARTE 6, que é a última, temos duas subpastas, uma que mostra as inferências feitas pelos modelos de classificação que foram treinados, e outra que mostra todo o processo de aplicação de LSTM para validação e predição.
+
+* **PARTE 6. INFERÊNCIA DOS MODELOS DE CLASSIFICAÇÃO E APLICAÇÃO DE LSTM** : https://bit.ly/2NoeKrr
+
+* **INFERIR 5 AÇÕES COM OS MODELOS DE CLASSIFICAÇÃO**: https://bit.ly/312Z4C9
+  * Aqui temos 5 pastas, uma referente a cada uma das 5 ações escolhidas, e dentro temos dois notebooks. Um notebook que usa a mesma metodologia de processamento que une os dados de preço, dados fundamentalistas e o target para gerar uma única amostra que será usado no processo de inferência pelos classificadores. Então entra o segundo notebook, com a amostra gerada pelo processamento, imputo as entradas em todos os modelos classificadores que foram treinados e eles inferem o target: "Good" ou "Bad". Todos os notebooks estão comentados
+  
+* **INFERIR 5 AÇÕES COM LSTM - ALGORITMO SÉRIE TEMPORAL**: https://bit.ly/313i5Ep
+  * Aqui também temos 5 pastas, tal qual a outra dessa parte, teremos dentro uma pasta referente a cada uma das 5 ações escohidas. Dentro de cada temos dois notebooks: um notebook comentado sobre o processo de aplicação de uma LSTM no qual a perspectiva é de "validação", onde temos os dados reais e comparamos com o que a série temporal da LSTM inferiu. A outra e sobre a perpestiva de predição mesmo, não temos os dados reais para avaliar, e queremos usar essa predição para unir com os targets inferidos pelos modelos de classificação e conseguir chegar em alguma conclusão sobre se a ação se valorizará em 10% ou não no próximo 1 ano.
+  
+  ## 5. RESULTADOS
+  
+  
 
